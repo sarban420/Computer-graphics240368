@@ -9,4 +9,4 @@ algorithm
   7.xinc = dx /step yinc = dy / step assign x = x1 assign y = y1
   8.Set pixel (x1, y1 )
 
-  conclusion: learned about dda line drawing algorithm in this lab
+  conclusion: learned about DDA line drawing algorithm in this lab.
